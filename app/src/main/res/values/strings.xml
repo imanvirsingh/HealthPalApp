@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HealthPalApp</string>
+    <string name="lable"><b>HealthPal</b></string>
+    <string name="moto"><b>Know What you're eating</b></string>
 </resources>
