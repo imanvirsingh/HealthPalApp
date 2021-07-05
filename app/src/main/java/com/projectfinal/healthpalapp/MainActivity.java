@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void inita(){
-
+//app's main coding
     };
 }
