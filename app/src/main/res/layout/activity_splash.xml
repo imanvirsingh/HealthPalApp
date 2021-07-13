@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="96dp"
         android:gravity="center"
-        android:text="@string/moto"
+        android:text="Know What you're eating"
         android:textColor="#3C3C3C"
         android:textSize="25dp"
         app:layout_constraintBottom_toTopOf="@+id/btn_splash_start"
