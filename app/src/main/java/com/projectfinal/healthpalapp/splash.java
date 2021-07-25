@@ -17,7 +17,7 @@ public class splash extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        intail();
+
         start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -26,6 +26,7 @@ public class splash extends AppCompatActivity {
                 finish();
             }
         });
+
 
 
     }
